@@ -1,0 +1,46 @@
+
+   
+.btn1{
+    background-color: red;
+    color:white;
+    margin-top: 500px;
+    text-align: center;
+    margin-left: 650px;
+}
+.d{
+    color:lightcyan;
+    font-size: 30px;
+    text-align: center;
+ }
+ .e{
+        list-style:none;
+        font-size: 20px;
+        font-family: cursive;
+        color:lightyellow;
+ }
+ .head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading{
+    text-align: right;
+    font-family: "WindSong", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#second{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+ .about {
+    background-image: url('https://worldwildschooling.com/wp-content/uploads/2024/03/Destinations-in-the-World-for-an-Unforgettable-Adventure-Cappdocia-Turkey_soft_light_AdobeStock_245895815.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    color: white;
+ }
